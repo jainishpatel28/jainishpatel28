@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jainishpatel28
-- 👀 I’m interested in web development and marketplaces. 
-- 🌱 I’m currently learning back-end of web. 
-- 💞️ I’m looking to collaborate on web projects. 
+- 👀 Looking forward to learn new skills. 
+- 🌱 I’m currently learning Python programming.
+- 💞️ I’m looking to collaborate on Python projects. 
 
 <!---
 jainishpatel28/jainishpatel28 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
